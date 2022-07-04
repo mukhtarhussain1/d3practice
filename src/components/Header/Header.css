@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-color: rgb(143, 7, 7);
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+.container h1,h3 {
+    cursor: pointer;
+}
